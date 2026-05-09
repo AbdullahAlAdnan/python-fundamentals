@@ -7,6 +7,7 @@ concepts, completed as part of a Data Science program.
 - Module 2: Data structures — lists, dictionaries, sets, tuples, functions
 - Module 3: OOP — classes, inheritance, encapsulation, polymorphism
 - Module 4: SQL — SELECT, WHERE, GROUP BY, aggregations, LIKE, ORDER BY
+- Module 5: NumPy — arrays, broadcasting, filtering, anomaly detection
 - More modules added weekly
 
 ## Structure
